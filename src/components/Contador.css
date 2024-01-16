@@ -11,6 +11,8 @@
   }
 
  .counter-number{
+   display: flex;
+   align-items: center;
    text-align: center;
     font-size: 4rem;
     padding: 1rem;
