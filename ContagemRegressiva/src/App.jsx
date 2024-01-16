@@ -13,7 +13,7 @@ function App() {
 
   setInterval(()=>{
     
-    const {dayNumber,minuteNumber,secondNumber,hourNumber} = userCountDown("Jan 1,2024 00:00:00")
+    const {dayNumber,minuteNumber,secondNumber,hourNumber} = userCountDown("Jan 1,2025 00:00:00")
 
     setDay(dayNumber)
     setHour(hourNumber)
