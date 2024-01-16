@@ -1,6 +1,6 @@
 import './App.css';
 import backgroundImage from './assets/background.jpg'
-import { Title } from './components/title';
+import { Title } from './components/Title';
 import Contador from './components/Contador';
 import userCountDown from './hooks/userCountDown';
 import { useState } from 'react';
